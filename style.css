@@ -185,14 +185,14 @@ html,body{
     width: 80px;
     height: 34px;
     background-color: blueviolet;
-    background-image: url(/shaljam.jpg);
+    background-image: url(shaljam.jpg);
     background-size: cover;
     background-position: 0% 56%;
   }
   #three{
     width: 60px;
     height: 34px;
-    background-image: url(/grass.jpg);
+    background-image: url(grass.jpg);
     background-size: cover;
     background-position: 0% 56%;
   }
